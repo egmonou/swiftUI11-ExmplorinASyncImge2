@@ -11,7 +11,7 @@ import SwiftUI
 struct _1_ExmplorinASyncImgeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ContentViewDepreated()
         }
     }
 }
