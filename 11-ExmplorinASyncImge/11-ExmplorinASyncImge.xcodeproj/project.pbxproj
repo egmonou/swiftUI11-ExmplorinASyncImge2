@@ -6,8 +6,19 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		9DCC2A892CCA169E00A84074 /* imageExmplrer5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCC2A882CCA169E00A84074 /* imageExmplrer5.swift */; };
+		9DCC2A8B2CCA180A00A84074 /* imageExmplre6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCC2A8A2CCA180A00A84074 /* imageExmplre6.swift */; };
+		9DCC2A8D2CCA1BE000A84074 /* imageEmxplore7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCC2A8C2CCA1BE000A84074 /* imageEmxplore7.swift */; };
+		9DCC2AA02CCB6DD200A84074 /* explore8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DCC2A9F2CCB6DD200A84074 /* explore8.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		9D3F82CB2CBEA3AA0061E32A /* 11-ExmplorinASyncImge.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "11-ExmplorinASyncImge.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9DCC2A882CCA169E00A84074 /* imageExmplrer5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageExmplrer5.swift; sourceTree = "<group>"; };
+		9DCC2A8A2CCA180A00A84074 /* imageExmplre6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageExmplre6.swift; sourceTree = "<group>"; };
+		9DCC2A8C2CCA1BE000A84074 /* imageEmxplore7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = imageEmxplore7.swift; sourceTree = "<group>"; };
+		9DCC2A9F2CCB6DD200A84074 /* explore8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = explore8.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -32,6 +43,10 @@
 		9D3F82C22CBEA3AA0061E32A = {
 			isa = PBXGroup;
 			children = (
+				9DCC2A9F2CCB6DD200A84074 /* explore8.swift */,
+				9DCC2A8C2CCA1BE000A84074 /* imageEmxplore7.swift */,
+				9DCC2A882CCA169E00A84074 /* imageExmplrer5.swift */,
+				9DCC2A8A2CCA180A00A84074 /* imageExmplre6.swift */,
 				9D3F82CD2CBEA3AA0061E32A /* 11-ExmplorinASyncImge */,
 				9D3F82CC2CBEA3AA0061E32A /* Products */,
 			);
@@ -119,6 +134,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9DCC2AA02CCB6DD200A84074 /* explore8.swift in Sources */,
+				9DCC2A892CCA169E00A84074 /* imageExmplrer5.swift in Sources */,
+				9DCC2A8B2CCA180A00A84074 /* imageExmplre6.swift in Sources */,
+				9DCC2A8D2CCA1BE000A84074 /* imageEmxplore7.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
